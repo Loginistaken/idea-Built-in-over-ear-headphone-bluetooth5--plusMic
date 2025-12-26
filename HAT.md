@@ -265,3 +265,4 @@ Your hat already includes:
 
 To become part of RSIS, we add:
 
+This page is only an idea for the custom design for the inventor not for production.
